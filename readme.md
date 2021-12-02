@@ -2,7 +2,7 @@
 
 Image classifier web app template to deploy a `tf.keras` model using Flask.
 
-The model used in this example was then trained to distinguish between images of glass and tables. The dataset used is Glasses vs Tables by [Muhammed Buyukkinaci](https://github.com/MuhammedBuyukkinaci).
+The model used in this example was then trained to distinguish between images of glass and tables. The dataset used is Glasses vs Tables .
 
 ## Setup
 
