@@ -12,8 +12,14 @@ Clone the repository
 
 Change directory
 
-`cd Image-Classifier-Web-App`
+`cd Image-Classifier`
 
+Get trained model by uisng this link: 
+
+ https://drive.google.com/file/d/1ap0kmsFlbIW34wqpQvcy4ukFkMTJLb73/view?usp=sharing
+  
+  Download trained model and place into folder called model in 'Image-classifier' project.
+  
 Create virtual environment
 
 `python -m venv venv`
