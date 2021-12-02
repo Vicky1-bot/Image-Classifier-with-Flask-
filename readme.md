@@ -45,3 +45,4 @@ Since the model was trained on images of glass or tables, you should ideally upl
 ![predict](assets/predict.png)
 
 
+<img width="935" alt="predict2" src="https://user-images.githubusercontent.com/76062756/144380846-a5d1b202-dec8-412b-ac32-e90292e2dedb.png">
