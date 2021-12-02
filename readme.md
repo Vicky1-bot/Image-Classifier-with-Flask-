@@ -43,3 +43,5 @@ Since the model was trained on images of glass or tables, you should ideally upl
 ## Get a prediction
 
 ![predict](assets/predict.png)
+
+
