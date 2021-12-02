@@ -8,7 +8,7 @@ The model used in this example was then trained to distinguish between images of
 
 Clone the repository
 
-`git clone https://github.com/am1tyadav/Image-Classifier-Web-App.git`
+`git clone https://github.com/Vicky1-bot/Image-Classifier-with-Flask-.git`
 
 Change directory
 
